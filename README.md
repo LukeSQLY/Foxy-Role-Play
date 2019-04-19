@@ -1,5 +1,5 @@
 
-![alt text](https://i.ibb.co/fCRGbs9/Lisek-png-692c328331d9d5418f55664dbbc00212.png)
+![alt text](https://fox-rp.pl/public/style_images/7_52327066_306499313549850_2754264756289273856_n.png)
 
 # Foxy Role Play (v.1.4)
 
