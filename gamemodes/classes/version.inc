@@ -1,0 +1,1 @@
+#define	GM_VER	"Fox-RP 1.4 BETA"

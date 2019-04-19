@@ -1,0 +1,1416 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:54:39] 
+[07:54:39] Server Plugins
+[07:54:39] --------------
+[07:54:39]  Loading plugin: crashdetect
+[07:54:39]   CrashDetect v4.15.1 is OK.
+[07:54:39]   Loaded.
+[07:54:39]  Loading plugin: streamer
+[07:54:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:54:39]   Loaded.
+[07:54:39]  Loading plugin: sscanf
+[07:54:39] 
+
+[07:54:39]  ===============================
+
+[07:54:39]       sscanf plugin loaded.     
+
+[07:54:39]          Version:  2.8.1        
+
+[07:54:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:54:39]  ===============================
+
+[07:54:39]   Loaded.
+[07:54:39]  Loading plugin: mysql
+[07:54:39]  >> plugin.mysql: R38 successfully loaded.
+[07:54:39]   Loaded.
+[07:54:39]  Loading plugin: regex
+[07:54:39] 
+
+[07:54:39] ______________________________________
+
+[07:54:39]  Regular Expression Plugin v0.2.0 loaded
+[07:54:39] ______________________________________
+
+[07:54:39]  By: Fro (c) Copyright <TBG> 2009-2011
+[07:54:39] ______________________________________
+
+[07:54:39]   Loaded.
+[07:54:39]  Loading plugin: SAMPSON
+[07:54:40] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[07:54:40]   Loaded.
+[07:54:40]  Loaded 6 plugins.
+
+[07:54:40] 
+[07:54:40] Ban list
+[07:54:40] --------
+[07:54:40]  Loaded: samp.ban
+[07:54:40] 
+[07:54:40] 
+[07:54:40] Filterscripts
+[07:54:40] ---------------
+[07:54:40]   Loading filterscript 'obiekty.amx'...
+[07:54:40]   Loaded 1 filterscripts.
+
+[07:54:41]  
+[07:54:41]  
+[07:54:41]  
+[07:54:41]  ======================================= 
+[07:54:41]  |                                     | 
+[07:54:41]  |        YSI version 3.09.0684        | 
+[07:54:41]  |        By Alex "Y_Less" Cole        | 
+[07:54:41]  |                                     | 
+[07:54:41]  ======================================= 
+[07:54:41]  
+[07:54:41]  
+[07:54:41]  
+[07:54:41] [connection] 127.0.0.1:56255 requests connection cookie.
+[07:54:42] [MySQL Domy]: 0 domów
+[07:54:42] [MySQL Clans]: 0 klanów zaladowano.
+[07:54:42] [MySQL Bussines]: 0
+[07:54:42] [MySQL PRace]: 0 laduje...
+[07:54:42] [MySQL Furniture]: 0 obiektów zaladowano.
+[07:54:42] [MySQL SafeZone]: 0 laduje...
+[07:54:42] [MySQL Aktorzy]: 0 zaladowano.
+[07:54:42] [MySQL Bramy]: 0 bram zaladowano.
+[07:54:42] [MySQL Autobus]: 0 przystanki zostaly zaladowane.
+[07:54:42] [MySQL Wejscia]: 0 wejsc zaladowano.
+[07:54:42] [MySQL Przedmioty]: 1 przedmiotow zaladowano.
+[07:54:42] Number of vehicle models: 22
+[07:54:42] [connection] incoming connection: 127.0.0.1:56255 id: 0
+[07:54:42] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[07:54:43] pociong startuje zaraz
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:54:58] 
+[07:54:58] Server Plugins
+[07:54:58] --------------
+[07:54:58]  Loading plugin: crashdetect
+[07:54:58]   CrashDetect v4.15.1 is OK.
+[07:54:58]   Loaded.
+[07:54:58]  Loading plugin: streamer
+[07:54:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:54:58]   Loaded.
+[07:54:58]  Loading plugin: sscanf
+[07:54:58] 
+
+[07:54:58]  ===============================
+
+[07:54:58]       sscanf plugin loaded.     
+
+[07:54:58]          Version:  2.8.1        
+
+[07:54:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:54:58]  ===============================
+
+[07:54:58]   Loaded.
+[07:54:58]  Loading plugin: mysql
+[07:54:58]  >> plugin.mysql: R38 successfully loaded.
+[07:54:58]   Loaded.
+[07:54:58]  Loading plugin: regex
+[07:54:58] 
+
+[07:54:58] ______________________________________
+
+[07:54:58]  Regular Expression Plugin v0.2.0 loaded
+[07:54:58] ______________________________________
+
+[07:54:58]  By: Fro (c) Copyright <TBG> 2009-2011
+[07:54:58] ______________________________________
+
+[07:54:58]   Loaded.
+[07:54:58]  Loading plugin: SAMPSON
+[07:54:58] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[07:54:58]   Loaded.
+[07:54:58]  Loaded 6 plugins.
+
+[07:54:58] 
+[07:54:58] Ban list
+[07:54:58] --------
+[07:54:58]  Loaded: samp.ban
+[07:54:58] 
+[07:54:58] 
+[07:54:58] Filterscripts
+[07:54:58] ---------------
+[07:54:58]   Loading filterscript 'obiekty.amx'...
+[07:54:58]   Loaded 1 filterscripts.
+
+[07:54:58]  
+[07:54:58]  
+[07:54:58]  
+[07:54:58]  ======================================= 
+[07:54:58]  |                                     | 
+[07:54:58]  |        YSI version 3.09.0684        | 
+[07:54:58]  |        By Alex "Y_Less" Cole        | 
+[07:54:58]  |                                     | 
+[07:54:58]  ======================================= 
+[07:54:58]  
+[07:54:58]  
+[07:54:58]  
+[07:54:59] [connection] 127.0.0.1:52257 requests connection cookie.
+[07:54:59] [MySQL Domy]: 4 domów
+[07:54:59] [MySQL Clans]: 1 klanów zaladowano.
+[07:54:59] [MySQL Bussines]: 28
+[07:54:59] [MySQL PRace]: 7 laduje...
+[07:54:59] [MySQL Furniture]: 4 obiektów zaladowano.
+[07:55:00] [MySQL SafeZone]: 3 laduje...
+[07:55:00] [MySQL Aktorzy]: 5 zaladowano.
+[07:55:00] [MySQL Bramy]: 28 bram zaladowano.
+[07:55:00] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[07:55:00] [MySQL Wejscia]: 25 wejsc zaladowano.
+[07:55:00] [MySQL Przedmioty]: 177 przedmiotow zaladowano.
+[07:55:00] Number of vehicle models: 22
+[07:55:00] [connection] incoming connection: 127.0.0.1:52257 id: 0
+[07:55:01] [MYSQL] Dealership Pojazdy: 131
+[07:55:01] [MYSQL SAuta] 83 pojazdów
+[07:55:01] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[07:55:01] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[07:55:01] pociong startuje zaraz
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:59:48] 
+[07:59:48] Server Plugins
+[07:59:48] --------------
+[07:59:48]  Loading plugin: crashdetect
+[07:59:48]   CrashDetect v4.15.1 is OK.
+[07:59:48]   Loaded.
+[07:59:48]  Loading plugin: streamer
+[07:59:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:59:48]   Loaded.
+[07:59:48]  Loading plugin: sscanf
+[07:59:48] 
+
+[07:59:48]  ===============================
+
+[07:59:48]       sscanf plugin loaded.     
+
+[07:59:48]          Version:  2.8.1        
+
+[07:59:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:59:48]  ===============================
+
+[07:59:48]   Loaded.
+[07:59:48]  Loading plugin: mysql
+[07:59:48]  >> plugin.mysql: R38 successfully loaded.
+[07:59:48]   Loaded.
+[07:59:48]  Loading plugin: regex
+[07:59:48] 
+
+[07:59:48] ______________________________________
+
+[07:59:48]  Regular Expression Plugin v0.2.0 loaded
+[07:59:48] ______________________________________
+
+[07:59:48]  By: Fro (c) Copyright <TBG> 2009-2011
+[07:59:48] ______________________________________
+
+[07:59:48]   Loaded.
+[07:59:48]  Loading plugin: SAMPSON
+[07:59:49] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[07:59:49]   Loaded.
+[07:59:49]  Loaded 6 plugins.
+
+[07:59:49] 
+[07:59:49] Ban list
+[07:59:49] --------
+[07:59:49]  Loaded: samp.ban
+[07:59:49] 
+[07:59:49] 
+[07:59:49] Filterscripts
+[07:59:49] ---------------
+[07:59:49]   Loading filterscript 'obiekty.amx'...
+[07:59:49]   Loaded 1 filterscripts.
+
+[07:59:50]  
+[07:59:50]  
+[07:59:50]  
+[07:59:50]  ======================================= 
+[07:59:50]  |                                     | 
+[07:59:50]  |        YSI version 3.09.0684        | 
+[07:59:50]  |        By Alex "Y_Less" Cole        | 
+[07:59:50]  |                                     | 
+[07:59:50]  ======================================= 
+[07:59:50]  
+[07:59:50]  
+[07:59:50]  
+[07:59:50] [connection] 127.0.0.1:52234 requests connection cookie.
+[07:59:50] [MySQL Domy]: 4 domów
+[07:59:50] [MySQL Clans]: 1 klanów zaladowano.
+[07:59:50] [MySQL Bussines]: 28
+[07:59:51] [MySQL PRace]: 7 laduje...
+[07:59:51] [MySQL Furniture]: 4 obiektów zaladowano.
+[07:59:51] [MySQL SafeZone]: 3 laduje...
+[07:59:51] [MySQL Aktorzy]: 5 zaladowano.
+[07:59:51] [MySQL Bramy]: 28 bram zaladowano.
+[07:59:51] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[07:59:51] [MySQL Wejscia]: 25 wejsc zaladowano.
+[07:59:51] [MySQL Przedmioty]: 177 przedmiotow zaladowano.
+[07:59:51] Number of vehicle models: 22
+[07:59:51] [connection] incoming connection: 127.0.0.1:52234 id: 0
+[07:59:52] [MYSQL] Dealership Pojazdy: 131
+[07:59:52] [MYSQL SAuta] 83 pojazdów
+[07:59:52] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[07:59:52] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[07:59:52] pociong startuje zaraz
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:01:25] 
+[08:01:25] Server Plugins
+[08:01:25] --------------
+[08:01:25]  Loading plugin: crashdetect
+[08:01:25]   CrashDetect v4.15.1 is OK.
+[08:01:25]   Loaded.
+[08:01:25]  Loading plugin: streamer
+[08:01:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:01:25]   Loaded.
+[08:01:25]  Loading plugin: sscanf
+[08:01:25] 
+
+[08:01:25]  ===============================
+
+[08:01:25]       sscanf plugin loaded.     
+
+[08:01:25]          Version:  2.8.1        
+
+[08:01:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:01:25]  ===============================
+
+[08:01:25]   Loaded.
+[08:01:25]  Loading plugin: mysql
+[08:01:25]  >> plugin.mysql: R38 successfully loaded.
+[08:01:25]   Loaded.
+[08:01:25]  Loading plugin: regex
+[08:01:25] 
+
+[08:01:25] ______________________________________
+
+[08:01:25]  Regular Expression Plugin v0.2.0 loaded
+[08:01:25] ______________________________________
+
+[08:01:25]  By: Fro (c) Copyright <TBG> 2009-2011
+[08:01:25] ______________________________________
+
+[08:01:25]   Loaded.
+[08:01:25]  Loading plugin: SAMPSON
+[08:01:25] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[08:01:25]   Loaded.
+[08:01:25]  Loaded 6 plugins.
+
+[08:01:25] 
+[08:01:25] Ban list
+[08:01:25] --------
+[08:01:25]  Loaded: samp.ban
+[08:01:25] 
+[08:01:25] 
+[08:01:25] Filterscripts
+[08:01:25] ---------------
+[08:01:25]   Loading filterscript 'obiekty.amx'...
+[08:01:26]   Loaded 1 filterscripts.
+
+[08:01:26]  
+[08:01:26]  
+[08:01:26]  
+[08:01:26]  ======================================= 
+[08:01:26]  |                                     | 
+[08:01:26]  |        YSI version 3.09.0684        | 
+[08:01:26]  |        By Alex "Y_Less" Cole        | 
+[08:01:26]  |                                     | 
+[08:01:26]  ======================================= 
+[08:01:26]  
+[08:01:26]  
+[08:01:26]  
+[08:01:26] [connection] 127.0.0.1:50754 requests connection cookie.
+[08:01:27] [MySQL Domy]: 4 domów
+[08:01:27] [MySQL Clans]: 1 klanów zaladowano.
+[08:01:27] [MySQL Bussines]: 28
+[08:01:27] [MySQL PRace]: 7 laduje...
+[08:01:27] [MySQL Furniture]: 4 obiektów zaladowano.
+[08:01:27] [MySQL SafeZone]: 3 laduje...
+[08:01:27] [MySQL Aktorzy]: 5 zaladowano.
+[08:01:27] [MySQL Bramy]: 28 bram zaladowano.
+[08:01:27] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[08:01:27] [MySQL Wejscia]: 25 wejsc zaladowano.
+[08:01:27] [MySQL Przedmioty]: 177 przedmiotow zaladowano.
+[08:01:27] Number of vehicle models: 22
+[08:01:27] [connection] incoming connection: 127.0.0.1:50754 id: 0
+[08:01:28] [MYSQL] Dealership Pojazdy: 131
+[08:01:28] [MYSQL SAuta] 83 pojazdów
+[08:01:28] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[08:01:28] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[08:01:29] pociong startuje zaraz
+[08:01:48] [connection] 127.0.0.1:51091 requests connection cookie.
+[08:01:49] [connection] incoming connection: 127.0.0.1:51091 id: 1
+[08:01:49] [join] Melvin_Frohike has joined the server (1:127.0.0.1)
+[08:01:54] Melvin_Frohike zalogowal sie z IP 127.0.0.1.
+[08:01:54] proboje zrespic Melvin Frohike 1
+[08:02:31] Z gry wyszedl gracz Melvin Frohike, wplacilem mu do banku 12535
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:02:34] 
+[08:02:34] Server Plugins
+[08:02:34] --------------
+[08:02:34]  Loading plugin: crashdetect
+[08:02:34]   CrashDetect v4.15.1 is OK.
+[08:02:34]   Loaded.
+[08:02:34]  Loading plugin: streamer
+[08:02:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:02:34]   Loaded.
+[08:02:34]  Loading plugin: sscanf
+[08:02:34] 
+
+[08:02:34]  ===============================
+
+[08:02:34]       sscanf plugin loaded.     
+
+[08:02:34]          Version:  2.8.1        
+
+[08:02:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:02:34]  ===============================
+
+[08:02:34]   Loaded.
+[08:02:34]  Loading plugin: mysql
+[08:02:34]  >> plugin.mysql: R38 successfully loaded.
+[08:02:34]   Loaded.
+[08:02:34]  Loading plugin: regex
+[08:02:34] 
+
+[08:02:34] ______________________________________
+
+[08:02:34]  Regular Expression Plugin v0.2.0 loaded
+[08:02:34] ______________________________________
+
+[08:02:34]  By: Fro (c) Copyright <TBG> 2009-2011
+[08:02:34] ______________________________________
+
+[08:02:34]   Loaded.
+[08:02:34]  Loading plugin: SAMPSON
+[08:02:34] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[08:02:34]   Loaded.
+[08:02:34]  Loaded 6 plugins.
+
+[08:02:34] 
+[08:02:34] Ban list
+[08:02:34] --------
+[08:02:34]  Loaded: samp.ban
+[08:02:34] 
+[08:02:34] 
+[08:02:34] Filterscripts
+[08:02:34] ---------------
+[08:02:34]   Loading filterscript 'obiekty.amx'...
+[08:02:34]   Loaded 1 filterscripts.
+
+[08:02:34]  
+[08:02:34]  
+[08:02:34]  
+[08:02:34]  ======================================= 
+[08:02:34]  |                                     | 
+[08:02:34]  |        YSI version 3.09.0684        | 
+[08:02:34]  |        By Alex "Y_Less" Cole        | 
+[08:02:34]  |                                     | 
+[08:02:34]  ======================================= 
+[08:02:34]  
+[08:02:34]  
+[08:02:34]  
+[08:02:35] [connection] 127.0.0.1:50668 requests connection cookie.
+[08:02:35] [MySQL Domy]: 4 domów
+[08:02:35] [MySQL Clans]: 1 klanów zaladowano.
+[08:02:35] [MySQL Bussines]: 28
+[08:02:35] [MySQL PRace]: 7 laduje...
+[08:02:35] [MySQL Furniture]: 4 obiektów zaladowano.
+[08:02:35] [MySQL SafeZone]: 3 laduje...
+[08:02:35] [MySQL Aktorzy]: 5 zaladowano.
+[08:02:35] [MySQL Bramy]: 28 bram zaladowano.
+[08:02:35] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[08:02:36] [MySQL Wejscia]: 25 wejsc zaladowano.
+[08:02:36] [MySQL Przedmioty]: 177 przedmiotow zaladowano.
+[08:02:36] Number of vehicle models: 22
+[08:02:36] [connection] incoming connection: 127.0.0.1:50668 id: 0
+[08:02:37] [MYSQL] Dealership Pojazdy: 131
+[08:02:37] [MYSQL SAuta] 83 pojazdów
+[08:02:37] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[08:02:37] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[08:02:37] pociong startuje zaraz
+[08:02:49] [connection] 127.0.0.1:56803 requests connection cookie.
+[08:02:50] [connection] incoming connection: 127.0.0.1:56803 id: 1
+[08:02:50] [join] Melvin_Frohike has joined the server (1:127.0.0.1)
+[08:02:57] Melvin_Frohike zalogowal sie z IP 127.0.0.1.
+[08:02:58] proboje zrespic Melvin Frohike 1
+[08:03:17] DEATH: Melvin_Frohike was killed by Melvin_Frohike with gun 24
+[08:03:36] DEATH: Melvin_Frohike was killed by Melvin_Frohike with gun 24
+[08:03:36] [debug] Run time error 4: "Array index out of bounds"
+[08:03:36] [debug]  Accessing element at index 65535 past array upper bound 999
+[08:03:36] [debug] AMX backtrace:
+[08:03:36] [debug] #0 00059fd0 in ?? (65535) from foxyrp.amx
+[08:03:36] [debug] #1 0005b61c in public L_AFK_OPD (1, 65535, 255) from foxyrp.amx
+[08:03:36] [debug] #2 native CallLocalFunction () from samp-server.exe
+[08:03:36] [debug] #3 0001a604 in ?? (1, 65535, 255) from foxyrp.amx
+[08:03:36] [debug] #4 0000e780 in public OnPlayerDeath (1, 65535, 255) from foxyrp.amx
+[08:03:40] proboje zrespic Melvin Frohike 1
+[08:03:40] proboje zrespic Melvin Frohike 1
+[08:03:43] DEATH: Melvin_Frohike was killed by Melvin_Frohike with gun 24
+[08:03:43] [debug] Run time error 4: "Array index out of bounds"
+[08:03:43] [debug]  Accessing element at index 65535 past array upper bound 999
+[08:03:43] [debug] AMX backtrace:
+[08:03:43] [debug] #0 00059fd0 in ?? (65535) from foxyrp.amx
+[08:03:43] [debug] #1 0005b61c in public L_AFK_OPD (1, 65535, 255) from foxyrp.amx
+[08:03:43] [debug] #2 native CallLocalFunction () from samp-server.exe
+[08:03:43] [debug] #3 0001a604 in ?? (1, 65535, 255) from foxyrp.amx
+[08:03:43] [debug] #4 0000e780 in public OnPlayerDeath (1, 65535, 255) from foxyrp.amx
+[08:04:18] Z gry wyszedl gracz Melvin Frohike, wplacilem mu do banku 12535
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:04:20] 
+[08:04:20] Server Plugins
+[08:04:20] --------------
+[08:04:20]  Loading plugin: crashdetect
+[08:04:20]   CrashDetect v4.15.1 is OK.
+[08:04:20]   Loaded.
+[08:04:20]  Loading plugin: streamer
+[08:04:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:04:20]   Loaded.
+[08:04:20]  Loading plugin: sscanf
+[08:04:20] 
+
+[08:04:20]  ===============================
+
+[08:04:20]       sscanf plugin loaded.     
+
+[08:04:20]          Version:  2.8.1        
+
+[08:04:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:04:20]  ===============================
+
+[08:04:20]   Loaded.
+[08:04:20]  Loading plugin: mysql
+[08:04:20]  >> plugin.mysql: R38 successfully loaded.
+[08:04:20]   Loaded.
+[08:04:20]  Loading plugin: regex
+[08:04:20] 
+
+[08:04:20] ______________________________________
+
+[08:04:20]  Regular Expression Plugin v0.2.0 loaded
+[08:04:20] ______________________________________
+
+[08:04:20]  By: Fro (c) Copyright <TBG> 2009-2011
+[08:04:20] ______________________________________
+
+[08:04:20]   Loaded.
+[08:04:20]  Loading plugin: SAMPSON
+[08:04:20] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[08:04:20]   Loaded.
+[08:04:20]  Loaded 6 plugins.
+
+[08:04:20] 
+[08:04:20] Ban list
+[08:04:20] --------
+[08:04:20]  Loaded: samp.ban
+[08:04:20] 
+[08:04:20] 
+[08:04:20] Filterscripts
+[08:04:20] ---------------
+[08:04:20]   Loading filterscript 'obiekty.amx'...
+[08:04:21]   Loaded 1 filterscripts.
+
+[08:04:21]  
+[08:04:21]  
+[08:04:21]  
+[08:04:21]  ======================================= 
+[08:04:21]  |                                     | 
+[08:04:21]  |        YSI version 3.09.0684        | 
+[08:04:21]  |        By Alex "Y_Less" Cole        | 
+[08:04:21]  |                                     | 
+[08:04:21]  ======================================= 
+[08:04:21]  
+[08:04:21]  
+[08:04:21]  
+[08:04:21] [connection] 127.0.0.1:54302 requests connection cookie.
+[08:04:21] [MySQL Domy]: 4 domów
+[08:04:21] [MySQL Clans]: 1 klanów zaladowano.
+[08:04:22] [MySQL Bussines]: 28
+[08:04:22] [MySQL PRace]: 7 laduje...
+[08:04:22] [MySQL Furniture]: 4 obiektów zaladowano.
+[08:04:22] [MySQL SafeZone]: 3 laduje...
+[08:04:22] [MySQL Aktorzy]: 5 zaladowano.
+[08:04:22] [MySQL Bramy]: 28 bram zaladowano.
+[08:04:22] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[08:04:22] [MySQL Wejscia]: 25 wejsc zaladowano.
+[08:04:22] [MySQL Przedmioty]: 177 przedmiotow zaladowano.
+[08:04:22] Number of vehicle models: 22
+[08:04:22] [connection] incoming connection: 127.0.0.1:54302 id: 0
+[08:04:23] [MYSQL] Dealership Pojazdy: 131
+[08:04:23] [MYSQL SAuta] 83 pojazdów
+[08:04:23] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[08:04:23] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[08:04:24] pociong startuje zaraz
+[08:04:37] [connection] 127.0.0.1:61207 requests connection cookie.
+[08:04:38] [connection] incoming connection: 127.0.0.1:61207 id: 1
+[08:04:38] [join] Melvin_Frohike has joined the server (1:127.0.0.1)
+[08:04:43] Melvin_Frohike zalogowal sie z IP 127.0.0.1.
+[08:04:43] proboje zrespic Melvin Frohike 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:13:04] 
+[08:13:04] Server Plugins
+[08:13:04] --------------
+[08:13:04]  Loading plugin: crashdetect
+[08:13:04]   CrashDetect v4.15.1 is OK.
+[08:13:04]   Loaded.
+[08:13:04]  Loading plugin: streamer
+[08:13:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:13:04]   Loaded.
+[08:13:04]  Loading plugin: sscanf
+[08:13:04] 
+
+[08:13:04]  ===============================
+
+[08:13:04]       sscanf plugin loaded.     
+
+[08:13:04]          Version:  2.8.1        
+
+[08:13:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:13:04]  ===============================
+
+[08:13:04]   Loaded.
+[08:13:04]  Loading plugin: mysql
+[08:13:04]  >> plugin.mysql: R38 successfully loaded.
+[08:13:04]   Loaded.
+[08:13:04]  Loading plugin: regex
+[08:13:04] 
+
+[08:13:04] ______________________________________
+
+[08:13:04]  Regular Expression Plugin v0.2.0 loaded
+[08:13:04] ______________________________________
+
+[08:13:04]  By: Fro (c) Copyright <TBG> 2009-2011
+[08:13:04] ______________________________________
+
+[08:13:04]   Loaded.
+[08:13:04]  Loading plugin: SAMPSON
+[08:13:04] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[08:13:04]   Loaded.
+[08:13:04]  Loaded 6 plugins.
+
+[08:13:04] 
+[08:13:04] Ban list
+[08:13:04] --------
+[08:13:04]  Loaded: samp.ban
+[08:13:04] 
+[08:13:04] 
+[08:13:04] Filterscripts
+[08:13:04] ---------------
+[08:13:04]   Loading filterscript 'obiekty.amx'...
+[08:13:05]   Loaded 1 filterscripts.
+
+[08:13:05]  
+[08:13:05]  
+[08:13:05]  
+[08:13:05]  ======================================= 
+[08:13:05]  |                                     | 
+[08:13:05]  |        YSI version 3.09.0684        | 
+[08:13:05]  |        By Alex "Y_Less" Cole        | 
+[08:13:05]  |                                     | 
+[08:13:05]  ======================================= 
+[08:13:05]  
+[08:13:05]  
+[08:13:05]  
+[08:13:05] [connection] 127.0.0.1:53421 requests connection cookie.
+[08:13:05] [MySQL Domy]: 4 domów
+[08:13:05] [MySQL Clans]: 1 klanów zaladowano.
+[08:13:05] [MySQL Bussines]: 28
+[08:13:06] [MySQL PRace]: 7 laduje...
+[08:13:06] [MySQL Furniture]: 4 obiektów zaladowano.
+[08:13:06] [MySQL SafeZone]: 3 laduje...
+[08:13:06] [MySQL Aktorzy]: 5 zaladowano.
+[08:13:06] [MySQL Bramy]: 28 bram zaladowano.
+[08:13:06] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[08:13:06] [MySQL Wejscia]: 25 wejsc zaladowano.
+[08:13:06] [MySQL Przedmioty]: 179 przedmiotow zaladowano.
+[08:13:06] Number of vehicle models: 22
+[08:13:06] [connection] incoming connection: 127.0.0.1:53421 id: 0
+[08:13:07] [MYSQL] Dealership Pojazdy: 131
+[08:13:07] [MYSQL SAuta] 83 pojazdów
+[08:13:07] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[08:13:07] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[08:13:08] pociong startuje zaraz
+[08:13:21] [connection] 127.0.0.1:60641 requests connection cookie.
+[08:13:22] [connection] incoming connection: 127.0.0.1:60641 id: 1
+[08:13:22] [join] Melvin_Frohike has joined the server (1:127.0.0.1)
+[08:13:27] Melvin_Frohike zalogowal sie z IP 127.0.0.1.
+[08:13:27] proboje zrespic Melvin Frohike 1
+[08:15:58] Z gry wyszedl gracz Melvin Frohike, wplacilem mu do banku 12535
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:16:00] 
+[08:16:00] Server Plugins
+[08:16:00] --------------
+[08:16:00]  Loading plugin: crashdetect
+[08:16:00]   CrashDetect v4.15.1 is OK.
+[08:16:00]   Loaded.
+[08:16:00]  Loading plugin: streamer
+[08:16:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:16:00]   Loaded.
+[08:16:00]  Loading plugin: sscanf
+[08:16:00] 
+
+[08:16:00]  ===============================
+
+[08:16:00]       sscanf plugin loaded.     
+
+[08:16:00]          Version:  2.8.1        
+
+[08:16:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:16:00]  ===============================
+
+[08:16:00]   Loaded.
+[08:16:00]  Loading plugin: mysql
+[08:16:00]  >> plugin.mysql: R38 successfully loaded.
+[08:16:00]   Loaded.
+[08:16:00]  Loading plugin: regex
+[08:16:00] 
+
+[08:16:00] ______________________________________
+
+[08:16:00]  Regular Expression Plugin v0.2.0 loaded
+[08:16:00] ______________________________________
+
+[08:16:00]  By: Fro (c) Copyright <TBG> 2009-2011
+[08:16:00] ______________________________________
+
+[08:16:00]   Loaded.
+[08:16:00]  Loading plugin: SAMPSON
+[08:16:00] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[08:16:00]   Loaded.
+[08:16:00]  Loaded 6 plugins.
+
+[08:16:00] 
+[08:16:00] Ban list
+[08:16:00] --------
+[08:16:00]  Loaded: samp.ban
+[08:16:00] 
+[08:16:00] 
+[08:16:00] Filterscripts
+[08:16:00] ---------------
+[08:16:00]   Loading filterscript 'obiekty.amx'...
+[08:16:01]   Loaded 1 filterscripts.
+
+[08:16:01]  
+[08:16:01]  
+[08:16:01]  
+[08:16:01]  ======================================= 
+[08:16:01]  |                                     | 
+[08:16:01]  |        YSI version 3.09.0684        | 
+[08:16:01]  |        By Alex "Y_Less" Cole        | 
+[08:16:01]  |                                     | 
+[08:16:01]  ======================================= 
+[08:16:01]  
+[08:16:01]  
+[08:16:01]  
+[08:16:01] [connection] 127.0.0.1:65395 requests connection cookie.
+[08:16:01] [MySQL Domy]: 4 domów
+[08:16:02] [MySQL Clans]: 1 klanów zaladowano.
+[08:16:02] [MySQL Bussines]: 28
+[08:16:02] [MySQL PRace]: 7 laduje...
+[08:16:02] [MySQL Furniture]: 4 obiektów zaladowano.
+[08:16:02] [MySQL SafeZone]: 3 laduje...
+[08:16:02] [MySQL Aktorzy]: 5 zaladowano.
+[08:16:02] [MySQL Bramy]: 28 bram zaladowano.
+[08:16:02] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[08:16:02] [MySQL Wejscia]: 25 wejsc zaladowano.
+[08:16:02] [MySQL Przedmioty]: 180 przedmiotow zaladowano.
+[08:16:02] Number of vehicle models: 22
+[08:16:02] [connection] incoming connection: 127.0.0.1:65395 id: 0
+[08:16:03] [MYSQL] Dealership Pojazdy: 131
+[08:16:03] [MYSQL SAuta] 83 pojazdów
+[08:16:04] [MySQL Obiekty]: 1218 obiektów zaladowano.
+[08:16:04] [npc:join] Pociong has joined the server (0:127.0.0.1)
+[08:16:04] pociong startuje zaraz
+[08:16:16] [connection] 127.0.0.1:59712 requests connection cookie.
+[08:16:17] [connection] incoming connection: 127.0.0.1:59712 id: 1
+[08:16:17] [join] Melvin_Frohike has joined the server (1:127.0.0.1)
+[08:16:42] Melvin_Frohike zalogowal sie z IP 127.0.0.1.
+[08:16:42] proboje zrespic Melvin Frohike 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:38:08] 
+[19:38:08] Server Plugins
+[19:38:08] --------------
+[19:38:08]  Loading plugin: crashdetect
+[19:38:08]   CrashDetect v4.15.1 is OK.
+[19:38:08]   Loaded.
+[19:38:08]  Loading plugin: streamer
+[19:38:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:38:08]   Loaded.
+[19:38:08]  Loading plugin: sscanf
+[19:38:08] 
+
+[19:38:08]  ===============================
+
+[19:38:08]       sscanf plugin loaded.     
+
+[19:38:08]          Version:  2.8.1        
+
+[19:38:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:38:08]  ===============================
+
+[19:38:08]   Loaded.
+[19:38:08]  Loading plugin: mysql
+[19:38:08]  >> plugin.mysql: R38 successfully loaded.
+[19:38:08]   Loaded.
+[19:38:08]  Loading plugin: regex
+[19:38:09] 
+
+[19:38:09] ______________________________________
+
+[19:38:09]  Regular Expression Plugin v0.2.0 loaded
+[19:38:09] ______________________________________
+
+[19:38:09]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:38:09] ______________________________________
+
+[19:38:09]   Loaded.
+[19:38:09]  Loading plugin: SAMPSON
+[19:38:09] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[19:38:09]   Loaded.
+[19:38:09]  Loaded 6 plugins.
+
+[19:38:09] 
+[19:38:09] Ban list
+[19:38:09] --------
+[19:38:09]  Loaded: samp.ban
+[19:38:09] 
+[19:38:09] 
+[19:38:09] Filterscripts
+[19:38:09] ---------------
+[19:38:09]   Loading filterscript 'obiekty.amx'...
+[19:38:09]   Unable to load filterscript 'obiekty.amx'.
+[19:38:09]   Loaded 0 filterscripts.
+
+[19:38:09]  
+[19:38:09]  
+[19:38:09]  
+[19:38:09]  ======================================= 
+[19:38:09]  |                                     | 
+[19:38:09]  |        YSI version 3.09.0684        | 
+[19:38:09]  |        By Alex "Y_Less" Cole        | 
+[19:38:09]  |                                     | 
+[19:38:09]  ======================================= 
+[19:38:09]  
+[19:38:09]  
+[19:38:09]  
+[19:38:10] [MySQL Domy]: 10 domów
+[19:38:10] [MySQL Clans]: 1 klanów zaladowano.
+[19:38:10] [MySQL Bussines]: 28
+[19:38:10] [MySQL PRace]: 7 laduje...
+[19:38:10] [MySQL Furniture]: 4 obiektów zaladowano.
+[19:38:10] [MySQL SafeZone]: 3 laduje...
+[19:38:10] [MySQL Aktorzy]: 5 zaladowano.
+[19:38:10] [MySQL Bramy]: 28 bram zaladowano.
+[19:38:10] [MySQL Autobus]: 19 przystanki zostaly zaladowane.
+[19:38:10] [MySQL Wejscia]: 26 wejsc zaladowano.
+[19:38:10] [MySQL Przedmioty]: 200 przedmiotow zaladowano.
+[19:38:10] Number of vehicle models: 22
+[19:38:12] [MYSQL] Dealership Pojazdy: 131
+[19:38:12] [MYSQL SAuta] 83 pojazdów
+[19:38:12] [MySQL Obiekty]: 1221 obiektów zaladowano.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:42:03] 
+[02:42:03] Server Plugins
+[02:42:03] --------------
+[02:42:03]  Loading plugin: crashdetect
+[02:42:03]   CrashDetect v4.15.1 is OK.
+[02:42:03]   Loaded.
+[02:42:03]  Loading plugin: streamer
+[02:42:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:42:03]   Loaded.
+[02:42:03]  Loading plugin: sscanf
+[02:42:03] 
+
+[02:42:03]  ===============================
+
+[02:42:03]       sscanf plugin loaded.     
+
+[02:42:03]          Version:  2.8.1        
+
+[02:42:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:42:03]  ===============================
+
+[02:42:03]   Loaded.
+[02:42:03]  Loading plugin: mysql
+[02:42:03]  >> plugin.mysql: R38 successfully loaded.
+[02:42:03]   Loaded.
+[02:42:03]  Loading plugin: regex
+[02:42:03] 
+
+[02:42:03] ______________________________________
+
+[02:42:03]  Regular Expression Plugin v0.2.0 loaded
+[02:42:03] ______________________________________
+
+[02:42:03]  By: Fro (c) Copyright <TBG> 2009-2011
+[02:42:03] ______________________________________
+
+[02:42:03]   Loaded.
+[02:42:03]  Loading plugin: SAMPSON
+[02:42:03] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[02:42:03]   Loaded.
+[02:42:03]  Loaded 6 plugins.
+
+[02:42:03] 
+[02:42:03] Ban list
+[02:42:03] --------
+[02:42:03]  Loaded: samp.ban
+[02:42:03] 
+[02:42:03] 
+[02:42:03] Filterscripts
+[02:42:03] ---------------
+[02:42:03]   Loading filterscript 'obiekty.amx'...
+[02:42:03]   Unable to load filterscript 'obiekty.amx'.
+[02:42:03]   Loaded 0 filterscripts.
+
+[02:42:04] [debug] Run time error 19: "File or function is not found"
+[02:42:04] [debug]  WP_Hash
+[02:42:04] [debug] Run time error 19: "File or function is not found"
+[02:42:04] [debug]  WP_Hash
+[02:42:04] Script[gamemodes/foxyrp.amx]: Run time error 19: "File or function is not found"
+[02:42:04] Number of vehicle models: 0
+[02:42:06] --- Server Shutting Down.
+[02:42:06] [debug] Run time error 19: "File or function is not found"
+[02:42:06] [debug]  WP_Hash
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:09:14] 
+[16:09:14] Server Plugins
+[16:09:14] --------------
+[16:09:14]  Loading plugin: crashdetect
+[16:09:14]   CrashDetect v4.15.1 is OK.
+[16:09:14]   Loaded.
+[16:09:14]  Loading plugin: streamer
+[16:09:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:09:14]   Loaded.
+[16:09:14]  Loading plugin: sscanf
+[16:09:14] 
+
+[16:09:14]  ===============================
+
+[16:09:14]       sscanf plugin loaded.     
+
+[16:09:14]          Version:  2.8.1        
+
+[16:09:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:09:14]  ===============================
+
+[16:09:14]   Loaded.
+[16:09:14]  Loading plugin: mysql
+[16:09:14]  >> plugin.mysql: R38 successfully loaded.
+[16:09:14]   Loaded.
+[16:09:14]  Loading plugin: regex
+[16:09:15] 
+
+[16:09:15] ______________________________________
+
+[16:09:15]  Regular Expression Plugin v0.2.0 loaded
+[16:09:15] ______________________________________
+
+[16:09:15]  By: Fro (c) Copyright <TBG> 2009-2011
+[16:09:15] ______________________________________
+
+[16:09:15]   Loaded.
+[16:09:15]  Loading plugin: SAMPSON
+[16:09:15] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[16:09:15]   Loaded.
+[16:09:15]  Loaded 6 plugins.
+
+[16:09:15] 
+[16:09:15] Ban list
+[16:09:15] --------
+[16:09:15]  Loaded: samp.ban
+[16:09:15] 
+[16:09:15] 
+[16:09:15] Filterscripts
+[16:09:15] ---------------
+[16:09:15]   Loading filterscript 'obiekty.amx'...
+[16:09:15]   Unable to load filterscript 'obiekty.amx'.
+[16:09:15]   Loaded 0 filterscripts.
+
+[16:09:15] [debug] Run time error 19: "File or function is not found"
+[16:09:15] [debug]  WP_Hash
+[16:09:15] [debug] Run time error 19: "File or function is not found"
+[16:09:15] [debug]  WP_Hash
+[16:09:15] Script[gamemodes/foxyrp.amx]: Run time error 19: "File or function is not found"
+[16:09:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:09:42] 
+[16:09:42] Server Plugins
+[16:09:42] --------------
+[16:09:42]  Loading plugin: crashdetect
+[16:09:42]   CrashDetect v4.15.1 is OK.
+[16:09:42]   Loaded.
+[16:09:42]  Loading plugin: streamer
+[16:09:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:09:42]   Loaded.
+[16:09:42]  Loading plugin: sscanf
+[16:09:42] 
+
+[16:09:42]  ===============================
+
+[16:09:42]       sscanf plugin loaded.     
+
+[16:09:42]          Version:  2.8.1        
+
+[16:09:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:09:42]  ===============================
+
+[16:09:42]   Loaded.
+[16:09:42]  Loading plugin: mysql
+[16:09:42]  >> plugin.mysql: R38 successfully loaded.
+[16:09:42]   Loaded.
+[16:09:42]  Loading plugin: regex
+[16:09:42] 
+
+[16:09:42] ______________________________________
+
+[16:09:42]  Regular Expression Plugin v0.2.0 loaded
+[16:09:42] ______________________________________
+
+[16:09:42]  By: Fro (c) Copyright <TBG> 2009-2011
+[16:09:42] ______________________________________
+
+[16:09:42]   Loaded.
+[16:09:42]  Loading plugin: SAMPSON
+[16:09:42] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[16:09:42]   Loaded.
+[16:09:42]  Loaded 6 plugins.
+
+[16:09:42] 
+[16:09:42] Ban list
+[16:09:42] --------
+[16:09:42]  Loaded: samp.ban
+[16:09:42] 
+[16:09:42] 
+[16:09:42] Filterscripts
+[16:09:42] ---------------
+[16:09:42]   Loading filterscript 'obiekty.amx'...
+[16:09:42]   Unable to load filterscript 'obiekty.amx'.
+[16:09:42]   Loaded 0 filterscripts.
+
+[16:09:43] [debug] Run time error 19: "File or function is not found"
+[16:09:43] [debug]  WP_Hash
+[16:09:43] [debug] Run time error 19: "File or function is not found"
+[16:09:43] [debug]  WP_Hash
+[16:09:43] Script[gamemodes/foxyrp.amx]: Run time error 19: "File or function is not found"
+[16:09:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:10:08] 
+[16:10:08] Server Plugins
+[16:10:08] --------------
+[16:10:08]  Loading plugin: crashdetect
+[16:10:08]   CrashDetect v4.15.1 is OK.
+[16:10:08]   Loaded.
+[16:10:08]  Loading plugin: streamer
+[16:10:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:10:08]   Loaded.
+[16:10:08]  Loading plugin: sscanf
+[16:10:08] 
+
+[16:10:08]  ===============================
+
+[16:10:08]       sscanf plugin loaded.     
+
+[16:10:08]          Version:  2.8.1        
+
+[16:10:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:10:08]  ===============================
+
+[16:10:08]   Loaded.
+[16:10:08]  Loading plugin: mysql
+[16:10:08]  >> plugin.mysql: R38 successfully loaded.
+[16:10:08]   Loaded.
+[16:10:08]  Loading plugin: regex
+[16:10:08] 
+
+[16:10:08] ______________________________________
+
+[16:10:08]  Regular Expression Plugin v0.2.0 loaded
+[16:10:08] ______________________________________
+
+[16:10:08]  By: Fro (c) Copyright <TBG> 2009-2011
+[16:10:08] ______________________________________
+
+[16:10:08]   Loaded.
+[16:10:08]  Loading plugin: SAMPSON
+[16:10:08] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[16:10:08]   Loaded.
+[16:10:08]  Loaded 6 plugins.
+
+[16:10:08] [artwork:crc] nazi.dff CRC = 0x129A6A22
+[16:10:08] [artwork:crc] nazi.txd CRC = 0xEF0F76DB
+[16:10:08] 
+[16:10:08] Ban list
+[16:10:08] --------
+[16:10:08]  Loaded: samp.ban
+[16:10:08] 
+[16:10:08] 
+[16:10:08] Filterscripts
+[16:10:08] ---------------
+[16:10:08]   Loading filterscript 'obiekty.amx'...
+[16:10:08]   Unable to load filterscript 'obiekty.amx'.
+[16:10:08]   Loaded 0 filterscripts.
+
+[16:10:09] [debug] Run time error 19: "File or function is not found"
+[16:10:09] [debug]  WP_Hash
+[16:10:09] [debug] Run time error 19: "File or function is not found"
+[16:10:09] [debug]  WP_Hash
+[16:10:09] Script[gamemodes/foxyrp.amx]: Run time error 19: "File or function is not found"
+[16:10:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:43:28] 
+[22:43:28] Server Plugins
+[22:43:28] --------------
+[22:43:28]  Loading plugin: crashdetect
+[22:43:28]   CrashDetect v4.15.1 is OK.
+[22:43:28]   Loaded.
+[22:43:28]  Loading plugin: streamer
+[22:43:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:43:28]   Loaded.
+[22:43:28]  Loading plugin: sscanf
+[22:43:28] 
+
+[22:43:28]  ===============================
+
+[22:43:28]       sscanf plugin loaded.     
+
+[22:43:28]          Version:  2.8.1        
+
+[22:43:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:43:28]  ===============================
+
+[22:43:28]   Loaded.
+[22:43:28]  Loading plugin: mysql
+[22:43:28]  >> plugin.mysql: R38 successfully loaded.
+[22:43:28]   Loaded.
+[22:43:28]  Loading plugin: regex
+[22:43:28] 
+
+[22:43:28] ______________________________________
+
+[22:43:28]  Regular Expression Plugin v0.2.0 loaded
+[22:43:28] ______________________________________
+
+[22:43:28]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:43:28] ______________________________________
+
+[22:43:28]   Loaded.
+[22:43:28]  Loading plugin: SAMPSON
+[22:43:28] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[22:43:28]   Loaded.
+[22:43:28]  Loaded 6 plugins.
+
+[22:43:28] [artwork:crc] nazi.dff CRC = 0x129A6A22
+[22:43:28] [artwork:crc] nazi.txd CRC = 0xEF0F76DB
+[22:43:28] 
+[22:43:28] Ban list
+[22:43:28] --------
+[22:43:28]  Loaded: samp.ban
+[22:43:28] 
+[22:43:28] 
+[22:43:28] Filterscripts
+[22:43:28] ---------------
+[22:43:28]   Loading filterscript 'obiekty.amx'...
+[22:43:28]   Unable to load filterscript 'obiekty.amx'.
+[22:43:28]   Loaded 0 filterscripts.
+
+[22:43:29] [debug] Run time error 19: "File or function is not found"
+[22:43:29] [debug]  WP_Hash
+[22:43:29] [debug] Run time error 19: "File or function is not found"
+[22:43:29] [debug]  WP_Hash
+[22:43:29] Script[gamemodes/foxyrp.amx]: Run time error 19: "File or function is not found"
+[22:43:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:41:30] 
+[00:41:30] Server Plugins
+[00:41:30] --------------
+[00:41:30]  Loading plugin: crashdetect
+[00:41:30]   CrashDetect v4.15.1 is OK.
+[00:41:30]   Loaded.
+[00:41:30]  Loading plugin: streamer
+[00:41:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:41:30]   Loaded.
+[00:41:30]  Loading plugin: sscanf
+[00:41:30] 
+
+[00:41:30]  ===============================
+
+[00:41:30]       sscanf plugin loaded.     
+
+[00:41:30]          Version:  2.8.1        
+
+[00:41:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:41:30]  ===============================
+
+[00:41:30]   Loaded.
+[00:41:30]  Loading plugin: mysql
+[00:41:30]  >> plugin.mysql: R38 successfully loaded.
+[00:41:30]   Loaded.
+[00:41:30]  Loading plugin: regex
+[00:41:31] 
+
+[00:41:31] ______________________________________
+
+[00:41:31]  Regular Expression Plugin v0.2.0 loaded
+[00:41:31] ______________________________________
+
+[00:41:31]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:41:31] ______________________________________
+
+[00:41:31]   Loaded.
+[00:41:31]  Loading plugin: SAMPSON
+[00:41:31] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[00:41:31]   Loaded.
+[00:41:31]  Loaded 6 plugins.
+
+[00:41:31] [artwork:crc] nazi.dff CRC = 0x129A6A22
+[00:41:31] [artwork:crc] nazi.txd CRC = 0xEF0F76DB
+[00:41:31] 
+[00:41:31] Ban list
+[00:41:31] --------
+[00:41:31]  Loaded: samp.ban
+[00:41:31] 
+[00:41:31] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:41:31] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:42:56] 
+[00:42:56] Server Plugins
+[00:42:56] --------------
+[00:42:56]  Loading plugin: crashdetect
+[00:42:56]   CrashDetect v4.15.1 is OK.
+[00:42:56]   Loaded.
+[00:42:56]  Loading plugin: streamer
+[00:42:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:42:56]   Loaded.
+[00:42:56]  Loading plugin: sscanf
+[00:42:56] 
+
+[00:42:56]  ===============================
+
+[00:42:56]       sscanf plugin loaded.     
+
+[00:42:56]          Version:  2.8.1        
+
+[00:42:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:42:56]  ===============================
+
+[00:42:56]   Loaded.
+[00:42:56]  Loading plugin: mysql
+[00:42:56]  >> plugin.mysql: R38 successfully loaded.
+[00:42:56]   Loaded.
+[00:42:56]  Loading plugin: regex
+[00:42:56] 
+
+[00:42:56] ______________________________________
+
+[00:42:56]  Regular Expression Plugin v0.2.0 loaded
+[00:42:56] ______________________________________
+
+[00:42:56]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:42:56] ______________________________________
+
+[00:42:56]   Loaded.
+[00:42:56]  Loading plugin: SAMPSON
+[00:42:56] ============== SAMPSON v0.2.0 by King_Hual loaded ==============
+[00:42:56]   Loaded.
+[00:42:56]  Loaded 6 plugins.
+
+[00:42:56] [artwork:crc] nazi.dff CRC = 0x129A6A22
+[00:42:56] [artwork:crc] nazi.txd CRC = 0xEF0F76DB
+[00:42:56] 
+[00:42:56] Ban list
+[00:42:56] --------
+[00:42:56]  Loaded: samp.ban
+[00:42:56] 
+[00:42:56] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:42:56] It needs a gamemode0 line at the very least.

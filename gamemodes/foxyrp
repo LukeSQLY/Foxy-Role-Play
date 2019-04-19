@@ -1,0 +1,68 @@
+
+CMD:duty(playerid, params[])
+{
+	if(IsPlayerConnected(playerid))
+	{
+		new string[200],sendername[MAX_PLAYER_NAME];
+		GetPlayerName(playerid, sendername, sizeof(sendername));
+		if(IsACop(playerid))
+		{
+		if(PlayerInfo[playerid][pfSkin] == 250 || PlayerInfo[playerid][pfSkin] == 0) return SCM(playerid, COLOR_ORANGE, "Nie posiadasz uniformu. Udaj siê do sklepu gdzie nastêpnie u¿yj (/fskin)");
+	               		if(PlayerInfo[playerid][pMember] == 1 || PlayerInfo[playerid][pLeader] == 1)
+		             	{
+								new pdstring[258];
+								if(OnDuty[playerid]==0)
+								{
+									//format(string, sizeof(string), "* Oficer %s wyjmuje z szafy odznake i mundur.", sendername);
+									//ProxDetector(30.0, playerid, string, COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE);
+									format(pdstring, sizeof(pdstring), "> Wchodzisz na s³u¿bê frakcji %s. Aby z niej zejœæ ponownie wpisz /duty", GetFactionName(PlayerInfo[playerid][pMember]));
+									SCM(playerid, COLOR_ORANGE, pdstring);
+									SetPlayerHealthEx(playerid, 100);
+									SetPlayerSkinEx(playerid, PlayerInfo[playerid][pfSkin]);
+									OnDuty[playerid] = 1;
+								}
+								else if(OnDuty[playerid]==1) 
+								{
+									//format(string, sizeof(string), "* Oficer %s odklada odznake i mundur do swojej szafki.", sendername);
+									//ProxDetector(30.0, playerid, string, COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE,COLOR_PURPLE);
+									SCM(playerid, COLOR_ORANGE, "> Zakoñczy³eœ duty. Aby ponownie wejœæ na s³u¿bê wpisz /duty");
+									SetPlayerHealthEx(playerid, 100);
+									OnDuty[playerid] = 0;
+									if(PlayerInfo[playerid][pChar] > 0) {
+									SetPlayerSkinEx(playerid, PlayerInfo[playerid][pChar]);
+									} else {
+									SetPlayerSkinEx(playerid, PlayerInfo[playerid][pModel]);
+									}
+								}
+						}
+		}
+		else
+		SendClientMessage(playerid, COLOR_GREY, "Nie mo¿esz tego u¿yæ!");
+		return 1;
+	}
+	return 1;
+}
+CMD:d(playerid, params[]) return cmd_department(playerid, params);
+CMD:department(playerid, params[]) {
+	new text[250],sendername[MAX_PLAYER_NAME],string[200];
+	if(PlayerInfo[playerid][pMuted] == 1)
+	{
+		format(string, sizeof(string), "Nie mo¿esz pisaæ na czacie ani u¿ywaæ poleceñ podczas mute jeszcze przez %d sekund",PlayerInfo[playerid][pMuteTime]);
+		SendClientMessage(playerid, COLOR_LIGHTRED, string);
+		return 1;
+	}
+	GetPlayerName(playerid, sendername, sizeof(sendername));
+	if(sscanf(params, "s[250]", text)) return SendClientMessage(playerid, COLOR_GREY, "Uzycie: {FFFFFF}/d <wiadomosc>");
+	if(PlayerInfo[playerid][pMember] == 1 || PlayerInfo[playerid][pLeader] == 1) format(string, sizeof(string), "* %s %s: %s", GetRankName(playerid), sendername, text);
+	else if(PlayerInfo[playerid][pMember] == 2 || PlayerInfo[playerid][pLeader] == 2) format(string, sizeof(string), "* %s %s: %s.", GetRankName(playerid), sendername, text);
+	else if(PlayerInfo[playerid][pMember] == 3 || PlayerInfo[playerid][pLeader] == 3) format(string, sizeof(string), "* %s %s: %s.", GetRankName(playerid), sendername, text);
+	else if(PlayerInfo[playerid][pMember] == 14 || PlayerInfo[playerid][pLeader] == 14) format(string, sizeof(string), "* %s %s: %s.", GetRankName(playerid), sendername, text);
+	else return SendClientMessage(playerid, COLOR_GREY, "Ten gracz nie jest po³¹czony.");
+	SendTeamMessage(3, COLOR_ALLDEPT, string);
+	SendTeamMessage(2, COLOR_ALLDEPT, string);
+	SendTeamMessage(1, COLOR_ALLDEPT, string);
+	SendTeamMessage(14, COLOR_ALLDEPT, string);
+	return 1;
+}
+
+
